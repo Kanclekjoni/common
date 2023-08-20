@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-218d4124","path":"/installation/compatibility/support-policy.html","title":"Support Policy","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1691572843000},"filePathRelative":"installation/compatibility/support-policy.md"}');export{t as data};
